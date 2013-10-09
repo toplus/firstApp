@@ -1,0 +1,1 @@
+try to do my first app with phoneGap
